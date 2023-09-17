@@ -1,1 +1,2 @@
 # BeautyPage
+This is a home page design for a beauty salon. With its minimalist appearance, it encourages customers to delve deeper into the services. Its transparency and simplicity make it easier for users to find the most necessary information on a given topic. It shows the products the salon uses and also has access to the price list, reservations, and description of a given service. An additional advantage is that the salon answers customers' questions about why they should choose THEM.
